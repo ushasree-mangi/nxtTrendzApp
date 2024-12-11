@@ -1,4 +1,8 @@
-In this project, let's build a **Nxt Trendz - Specific Product Details** app by applying the concepts we have learned till now.
+ **Nxt Trendz App**
+
+ ## Login Credenials 
+ - Username : praneetha
+ - Password : praneetha@2021
 
 ### Refer to the image below:
 
